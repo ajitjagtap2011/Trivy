@@ -12,6 +12,7 @@ sudo apt-get install trivy
 
 
 ---COMMANDS---
+Note: use nginx image
 
 trivy image imagename
 
